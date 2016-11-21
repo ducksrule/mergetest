@@ -8,5 +8,6 @@ void main() {
 	cout << "Hello Moon" << endl;
 
 	cout << "error" << endl;
+	cout << "merge conflict" << endl;
 
 }
