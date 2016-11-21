@@ -10,4 +10,5 @@ void main() {
 	cout << "error" << endl;
 	cout << "merge conflict" << endl;
 
+	cout << "test add" << endl;
 }
